@@ -19,8 +19,19 @@ A Retrieval-Augmented Generation (RAG) application that allows users to upload d
 - Llama
 - Groq
 - OpenAI Embeddings
-
 ## Screenshots
+
+### Application Interface
+
+![Application Interface](screenshots/rag-main-interface.png)
+
+### Embeddings & Vector Database
+
+![Embeddings Ready](screenshots/embeddings-ready.png)
+
+### Question Answering
+
+![Question Answering](screenshots/rag-question-answer.png)
 
 ### Application Interface
 
