@@ -33,18 +33,6 @@ A Retrieval-Augmented Generation (RAG) application that allows users to upload d
 
 ![Question Answering](screenshots/rag-question-answer.png)
 
-### Application Interface
-
-![Application Interface](screenshots/home.png)
-
-### Document Upload
-
-![Document Upload](screenshots/upload.png)
-
-### Question Answering
-
-![Question Answering](screenshots/response.png)
-
 ## How to Run
 
 ```bash
